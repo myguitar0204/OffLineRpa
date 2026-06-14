@@ -1,0 +1,7 @@
+# 412MB，需用 USB 實體搬移
+chromium/
+
+# uv 執行檔（需從 USB 搬移或自行下載）
+uv.exe
+uvw.exe
+uvx.exe
